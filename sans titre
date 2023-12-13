@@ -1,0 +1,12 @@
+<?php
+
+$plein tarif = 18;
+$tarif réduit = 15;
+
+echo "Saisir le nombre de personne dans votre groupe : ";
+$adulte = fgets (STDIN);
+$total = $plein tarif*$tarif réduit;
+echo "Pour Quiberon-Le Palais pour une période entre le 1er Septembre\n";
+echo "total: " ,$total ," euros\n";
+
+?>
